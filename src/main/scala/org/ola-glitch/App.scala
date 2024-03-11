@@ -11,6 +11,7 @@ object App {
     println( "Hello World!" )
     println( "Write 234!" )
     println( "Hello World!" )
+    println( "Hello World4!" )
     println("concat arguments = " + foo(args))
   }
 
